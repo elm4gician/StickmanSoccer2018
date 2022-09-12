@@ -1,0 +1,168 @@
+{  
+    "LeagueName":"Chilean Premier League",
+    "LeagueLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEi3Er-uwvoQkhdRrYB85Cen3MlSn7dWBGBiC8lKr09DznKAGb2dBSdm4SeZ3bYWKBdxneBcfhLGPLP2HegnbfwTmlYN1xyqo7YAFmkkS9tU82EFp7neRy9ssAALCPi9qTEBqquwJ4l0lfofR37x8i6tlum19X9aPJaVb-t62FLVb5tV8z9HDx6NoQdV",
+    "LeagueBallURL":"http://url_to_my_league_ball.png",
+    "Teams":{  
+       "TOR":{  
+          "TeamName":"Colo Colo",
+          "TeamShortName":"CC",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEi2i46HF25GJDGUONV1Rf6Sjy-I-Q7PgKkn9JPp4VBQ-Qji9s9PcNJ6VC1dm21nwo7ouDRB5hu8aN0JHORJPUXcC3yVL0YekaBlvpYFPKSp4Wa1DGARlUPtnYa8cXuFETi812FFOQ44GtOEY6lLo9NVw3JO_YVwT7jDXkkT2VbH9k3tBUg28j3RSbeb=w268-h314",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhMzenQr-DVeUUcIuCbfq_WnKS39BNYwauAEIYMi9eJD-hCjXG_TeYLTSagA5HFuwQEYFuafVqLDQ_dzLYZAleHh20gIxPHkgrZ5vLIw3E9J-d7l0XMW31jOS_N3yDSKee9L8_wzUgb_ojpGpjd9E9-I-NviSwNJns7WbsJRJ2yHX6rhAIMf9_ekl0G",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgJErqY7ksjj6uYs-hzM8uGU1zpQldYqt_zSCDt6kE8OoUFAEQZHViWoirXvp7xOApzasoKTzRT5cN8NysGKyou9RXBQbuBdSNGIxOxTXgD_fytMjZsJE4TCavDFCB0ilr64A0HIkTo5EwQwKT0Ddp0F_NRHJ_PcGtkJRIcC-IO1ZFpg4uacs2P-FRa"
+       },
+       "NYC":{  
+          "TeamName":"Nublense",
+          "TeamShortName":"NUB",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhofPOI5rZfJ6raYb-_9ZPVkmjdupmlNGJpZQwHgwFpAxcaS0jwQd6MIvsNHFNHoJDQp5LViBsEOgnoGGKVAknrbF7FMR_4WkCw_PTHOSMGlE7XATQRmgGJKUF9Va-TSFJHQjQc60CVvMPw9d1JCOVNnTlXnXIgYCwgrw3qHLLkndPP6ui8xbddPKA_",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiSe1BaD2ccRHAy0IMW3JK84zBcXbuOyVft-qIxNRiEMx7S_FLAFsIdN8GJvsgfNG4Cl1CI8MxfXcO-wBaxvBEL0DPx5p9baYuit36eEh6AbPU-OYSiTza7OhPoiNbkTSmr-0tP1YQBtPyXzmYyiAJDhS25caJxFjJd_pyy5xfWis-KLMooJYAXErua",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEh7am-OyFRVAq16PNRwwcl7lbWBesybgSXdDDLi4o1VauAP4Clo2iyU83sq1iat3eMxF9LVC1awD1nbMNFvafU3i_mcLom0VCWro2ZIF-IUusqHztGQrSGHQu_ORZMOpEGpitc5GKkRLxRZj2h-0ivGyRo_1ay5B_jv0CtF0gjBamW9L8Luda3JIY3K"
+       },
+       "ATL":{  
+          "TeamName":"D.P. Curico Unido",
+          "TeamShortName":"CUR",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhFkjQOYmgjbT-EymHiQFQUz7mUCEWz3o7Qq_WGGtSeGmCiO8nvpeEVdOOdqV0yiEZKxrTyIdUnIZLJWax0Xy2D6mdE1ExMyaAjK0t5O3LREhwn1iyG_Xb7iFRRLkhZOfICzV67BVsusJesbzmJlKcNnADGot2LX-5eqjD2_kp900_pLtDEiLrjiLKL=w273-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiIWxI5WQXAWTeFtJP_YRcRjDWVVwldPKBsxgDzkNeJg7ZrXtw1r2B7T15xiBQKPzQtzyWD3b0XvBfuQbhSPyOW7uQ3k9cCA26JLZxI1aGmagAA_RqTsurB5g4MFVyaa2acQgldlvpXcdHQ3pemq_KBLWy3qtFJtzBv1xwDB_fyVx3hQ_LG8D8EsWho=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhJhxIDJpfbcW_6pYPMq-9mmUhS64IjEk9hWVWKa-Ut46jyica2Hyj9feUJ6FI8YhjcXt6OJ5GxL8E7edCU-84HFLDRcOjYb7l8jq4XcnCgVMKNZvp7842MMqPn6VOB8v9IBIMXr7mGIAAz_8OscSFyBpWkjRMuNCRQ0d7btxjPzzz0JHGddtZ36EIz=w400-h400"
+       },
+       "CCO":{  
+          "TeamName":"Universidad Católica",
+          "TeamShortName":"UC",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhSJZ7JuRwiJMPK05S7M7119LchXxJUrX2dhh-VPEeTEtok34-RokZwuoi3d2YESfr7jy-xWOFj4Wc5Xegz-O-qFsKhTrovGOZT3LlkLkkvlzvqm782rX61N4wAasJTc7D-CGMplA08P8AuNIncr9qlckTPpK-7qbWRMdKxlskEqZQJ8YY5nkMu7OUU=w274-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhALbgmWQs21wMDUPQisl0Thu9NDSgGNBhwh9cpNvK_Z7Pr3_26FSrqTrB4CshJbRJT_rlq2Sn0Uj88SROD2M38P-fsjlJmgVQRgp4lwF7EhUtx2lAYnqfF249LHuTjqpqxP1Zo5wN4vpCuZuv-uCjs6tqTVhqhHkLLQAYVENk3ZXySKE22RSvwEAky=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiPuf9moLJXKTjxQ24ODYyqDN7nHJ-T0opa_P0_mNn1sAmExLbHSIjTC0oI410f9gUW97cIByF3C7b3U-OTpZT5rukkVR9iAlEEvTf0vLwT-YqAH7CcGbM1zrOwNnbYcI5Wm2oaMJAiiaEauKAjqc8hS5BnZEQVC2KQ028u6pu6GAaKDMBj3fKuGYtP"
+       },
+       "CLM":{  
+          "TeamName":"Union Española",
+          "TeamShortName":"UE",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgH7NUXZjksldgNsKXfvkhYWzoNLPlqD50LKeAB6AiPDxhJ11rxfUdKaQxzCH8ewhtTjO3-BMLQhRdhZ588uv9TRUHEqCSwqbox_Q7ft8rCsPMiDqAFo9ZQsSyIVr0X3QcOh6trM-awAuoAo_Fj0n3U1tnEKUBcH_u_1BPLoGz2IfaXoix5KOvRAYNS",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgLFLboyQgAu1F050FFI_UCSZkTOJGnbiPjA82-6NPMvht8a__sZHnyHxw50MqwTt8FHLLy3Bncd7Rx_-UdI9GtCxHTqJCvav6-nUcA5s2kbvDmhg6VzMRPdha86sEOxSVNn3en8ryT7dGfB0YwG1klsLVZPa2nCDaV6pfY0YgE-NxJkRPa7p4c_k6K",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiZceEOA_s9bURJdTiokvXnnnP8zpv0rClcBqMoJXLk2eRCjErKctKMknNwoMBARyrXeAkqAlNW7eVQomAdK8Ah_SycmSEyUtkYqjnQcBRmv1OA-m0Hbo4TglkIehxKGd6F9K-b3MFQemEgYjh_B1dt8kvvtgcjaDdShVwA4jXi1h1CmNsPQibRIJ9d"
+       },
+       "POT":{  
+          "TeamName":"Cobresal",
+          "TeamShortName":"CSL",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjnkSMoT8GTY1M91O7HieJ-De9pMPbuB_e2-wYDDoLVCEnRVcpSxERhCSml1F8IRFsR0KO6gou3c_udzV01IaN5chMvlGV8eJ0H2f-4fegZlcLkw99zBWPQsZndEk9sIoS0B3RvBC8xvZquuW1dnR3rcRsM1EL-ZyKRexOCFeDny9w9kV64tvMoKAy5=w273-h320",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "SEA":{  
+          "TeamName":"Everton de Viña del Mar",
+          "TeamShortName":"EVE",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjFjuJYJnObrgmT5Ska8JgfzIhWtjh9HfFLWiwuyA92YbODuMRmteuXp89ssUWJFvGMVu4S4v98IwK49_ePNu68EXmIoEtqA32EBg5LoNwWbOIU6u9qkTOPYrGoFGL_wNEVVTeQ9fpFztUVbDDx5fmHcWZuf_GqhubsM8tfCRSMSyOiV-q_hw7H_6kC=w273-h320",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "VAN":{  
+          "TeamName":"Palestino FC",
+          "TeamShortName":"PAL",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhRrHJMZFEJYpB2TQPjKBgTstO1PY5qht141Ve5JQmXy2zyB4AKv0SM9WmEIeU1gF9goH6ob1rEzTR26i6MxX3M13tImPaCk_nXizl_qxIOFBH_RmYg7fWvpSDGNyLKg7AvK8kOtvXJFLh8NfFJxzf7gZp5p3E1l5PZ_Z6kPF2VqlG0zfo5Z21gDvSx=w273-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEj4pFRfo1PxrlbD1NNdw_o_4le-ot-Et5z4I149v0PrySsbDXEA-Ue92rpK29Dhvbekvudnc7rMRgh0yVPhRldmW3jFu6W9olFz3zisK2BVW30sW4ZyPjPGVE5jkjEqx1no0O273CQOfpoVF7IRHxLWtAHIQVP1SOQtGg6FS6w16r_kfQOlbdk8G1g_=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgXFreh2eskshztsNgvYQKmhcpKJCSUM94fdW69TBy-uD7FPd0rqM449j7Qyp26L2OKhjdWrndVnZeVWMPEOMnTnwyPjPyFfPVsh77oawaLu329b1VrlKkqspS_i4uZllEetN12oxDDc1T5VPA_qnlmmgbFctCGj3itSgVwS32nmQeE3mksoRXWpW8K=w400-h400"
+       },
+       "HOU":{  
+          "TeamName":"Huachipato FC",
+          "TeamShortName":"HUA",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhTjQkZFJqsDVUpoGL1Y4GsxpKrS6mooysB5rTA4_7cFTI8nLMiyVKCWe_CNv1-ULue5tZ1wfQoX-DnJUP_PesuvlzRHwA8qRNRoGzxq5ryUJWzIyvsw5z5hS2cSLGE15FPDwOVmKIu-yvYTGvqJ4iYP-hTQmlSB99O6g8KRWH8wnLEzMp613rsRtot",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhdRs5Ay98mdbqG5FPHJ-v4YJVaqmVGo1sq5wyA6I0bf2R2HwKO1KDPXWlwp7pyx1MSYjlqDrC_TUHCecF-JHW-NNjWpbR74NXMWwTzD6KVqWdnXKAV44AaNb-gmhSjr1x6Kkf4WeO2f8z2I127MqPLp-O3wQq3sQBoFNJ9-m7fAJXHQfdm3obsdwsz",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEghA8p23THq0NOOxdwd-VLbwxbb-ylw7kVeqRR1Vl9REq_nUZVKT_1hJlzyzft0bXTk2I94_fjSv_Q6jCMOiWeN6vHAeVzf7-Aoc5grA2N2E5do7cyf_mRxMZ0dtxqIuxZ-C5zAB_ufcw40vPkUSPLEe0fEn_UY2KLWN5o4SdY64Zl_KL62cXHr3P0_=w400-h400"
+       },
+       "NYB":{  
+          "TeamName":"O'Higgins de Rancagua",
+          "TeamShortName":"OHI",
+          "TeamLogoURL":"http://url_to_my_team_logo.png",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "KCI":{  
+          "TeamName":"Universidad de Chile",
+          "TeamShortName":"UCH",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEia0oFolOsFgzWwY9yM-b5vx5uK4NpabQ-LA5UiCHIoK8AiVGKQ8puTkh8bvM18Dqj-UZaDSyb9vcW5-MIrrJ98Ch59bCzTVW4G55sdRSQqfID91bLIu09Xh4UbTa1VRnR3Y04sJupDecVUIP-kX_Ebf19xZA-tFZ_3IRGpTzkH5x2OMpbzeW_vrKQi",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhJMK8vQFqYeOoAalDoxOv8a67qUhwcMRZkzuqPjr4ZPn9IHbiuIUcDBGSNcIrdCv1HpgBSfAeqbdwa4m8LH6er3BI6o3Sga9GTbcfw3D34m0gslV-kAHJ4rC1kAsgiU6sE4fyzYUSOMv1LZfhko2ciXc61nEnBZKyMoI92_eK7G78Xt9AfsO9QEgjl",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgF9TNFb7S3iFFVrpVxU7wBpD_yZDTj74blSj04UkpJ0Yhedoy2chL92_cNCrOe3HNx7dIhkSziy0tlP0patNWS5clAeEJQ5EKIjz5CzvJUfbF2_gYxpk17KxTcdMdeq0V1CoPkSjN42CcownCzj2POJKTlajmFpbPlyt_IHCNcHP-uveGvoVoxQMxB"
+       },
+       "DAL":{  
+          "TeamName":"Audax Italiano",
+          "TeamShortName":"AI",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEh3XiQrO4vEdUTeq9wUqVFtfMVhUAKhq57kk1XuAizxKb-3GDN-Ydmssd-ZKaW0RBk0HQ3JwgrDsIrtPD5sP7274SBelQ0-96qwLstjMbPJO8lHgDfnXdZ3uWCN12wd-5CFxhQVwuFigOyuyU_k1cdRdQZD-yg-pHp0mOARguKIE1v4uvwq-EbVO9qR",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEik2vxT1kx8o1ZES_SG6SjrhL_KR9y7nLCYONMalhP5VdtmhhduXH55O_ceQcU_2cWZSkUoH5EEh6bQLesJKwWwlJRekix9D7q2zHbnXqoGE3q5A4mxBVzHmz9woAktVvzQ0XxUIX04wzEghuUIblEJVWYPNeH6yPMyjPjRRZMs-w8J5hvG4xw2YTNl=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiKHrn9zVBhunh6X9E09oRtzbFqyiLoe1he8LioU5jLtuA77N5xPK0kdgbVugBIguNaFKnQnrNwyEMtEhwZib_CjsLTNHElPl2mwpJb0oD2P6UNYB7ITV-8sQgan6dD27u-8PSK7Dm-O3eChZkaXpdxJ_M2SxDi-CGyzZQwMCL2cp17au0IELAlcvGM"
+       },
+       "SJO":{  
+          "TeamName":"Magallanes FC",
+          "TeamShortName":"MAG",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEigRzRdfYK9xzB0KakzVPBSibny5BV8LFL6hsz0GnzMEj_lzwOsPpI9iSMfA3q9x6ip8s_8C9VTG8nDZ9NBaEXekL_1yCEqdyABLq1gIwDo1btH34Zlx2N0Bim_6yI_GOc8SXMZyhl9LubAqthWzGeDzgNAbY6Xy2F-wBm1elwv69UMwQIN-_URylFT=w273-h320",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "NEN":{  
+          "TeamName":"Union La Calera",
+          "TeamShortName":"ULC",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiyKqguMCsPDFCoOJOkcnqLmMpamUxll29ARFP-W0BskIiaGgNEyY8rrAko6ePdYfYXAiIEi-8OAZdkKaPse-XDlDDGNR8jQt-8QA-ReDlT-1OfU8LikVS5jacUuymzOW5W6FApd_uR1r2Cyzdlwk31ubbfEPSTmSZV6JBbU5fFxKrLcZjZSEWCdBUK=w273-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEga56TWjFeY62gJnb6vyIAonbaZlPPq4A9ZIEmpSNhXd3RwhCp6GPCwg1bU4UsWczqqURccavbFjh2X5VnJxMlxNg8XCV-VOB1F0WA7RtqVnA_LIyw7Vvfl4XLhel6_-I3wug2IpNADX5fynlde572ba5W8yLqTST88kr03nwB0vTUGsxfOUtvtkbTB=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEizKmxjDDsDYklOly0lrX7tQvmkGma6SyA-1Y2u9Q_kbMCbb-yiJ8iZ_n8J84fgKJiX0OwuMgYSc7X3guE89u4wZIH5ceMxhU3OXhhQiI74pOA3F2DDn4NKTaMt9q5UF_x2vgg_Wi7cZ5wjhZVrYTvxfMWLsXCXXxiPj4m7HPr1y76h-HhNtF1VIM8y=w400-h400"
+       },
+       "SAY":{  
+          "TeamName":"CD La Serena",
+          "TeamShortName":"DLS",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgQ0VebQWzinL41QytoeJJ4ds57VcmJ8tWmmb1aOuD_Qp5cvNXBR0T8xwQSwhzNAUJm-WsLA3d_BwR4UCp0qj7r0DYD5qSojdmDi2mPrMYNlQh-d5n5FTpkdkMi47gP9oFDp6_peotxuX0E2NYzpcl0MvEgV_9MFebxb-bsjA6qBjVQ6RMZwK0sa7df",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEg_0Nh9P-xon0okWTys7XGSrpi9jgZ44kwqv19EA_unAc5N7mccxe5xQhSzz3GDozoe4O4F82nLlHjgN2GMZ5oXITAkxSNdWPfsQcwhNJSQwzvG2Luz_RsmpcrEjxb4x26ozdWwzwzyMgFHOjUNryyvGSh7iluglBBR5HCY4Hewx9-SzyVJoAcLaaET",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhHiHjLtWbBfGSHihtP7F0sd2cKY5UNtY8QsaqWErsEUPW0-D4p3e0afTowmAymm8Hwdmmhc283gEw2OvuRG1ZW1SOrOD21INti21QGIb67ubeBqcBYWzBe6EZUSK8YYexgih7U1lnS3ihIV7CwIexN4N84nZW8I5PPTfjp9j7VzCQj2GeU0WGrqFyM"
+       },
+       "PHI":{  
+          "TeamName":"Cobreloa",
+          "TeamShortName":"CLA",
+          "TeamLogoURL":"http://url_to_my_team_logo.png",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "MOT":{  
+          "TeamName":"Coquimbo Unido",
+          "TeamShortName":"COQ",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjeWLAs-MVtNe4tDuOq4tlC1LSq7Njw1D7thEpaRcOSCgsAGI04eJrmmy_jZp3vtSmEQ5ZCO9g2R6lJiPHTIpIZNz20gezPwzFDyckLCdLtCjXjzRvyz1S7EWeyAJ3fSzW-SNGM8hH7dC2FEIWy4-93MMkY3JiMekz0fXhOXw6u-WxH-ay4Kct8P2bh=w274-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhy6uQtIB9eDC8iM2ArQkADmUYSTwNaoL11QOFy2K8mx_NXSannabyl1Xx8jEqstycoaqo5j3aWrOfX9M2MHGK-o6LUYyAruFb5-SSrorTU7R9V-MURMRoim3-mjcnjHEROm_wbvI_DhDf5RKseXs09ajHOK0bm0UXNS9EoMbS4qBwDZUEsTcpHtEVo=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgb3oSRGm3kevOH_xHTzuTtlVkuYoycfHeDkqcQztk39H1Oh6OaSUkMry1XLxRi3ix_-FVUMch2EutS6VYngXUoQVPMNsXRt1zmXT6sfm0kYaCXDSom9yIsyx7i94kOXN5R5u2dGpmZy83vFJ0Rv5rVQgA9aVyFYbGGFpQ-FxMTxykQQ1ycW72kJZpx=w400-h400"
+       },
+       "ORL":{  
+          "TeamName":"Santiago Wanderers",
+          "TeamShortName":"SW",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgaFBvP_HXi-Hb89BY6oQdBPcZzSG0fjaCxvvgye4IQUsb4Ws-OZ9AAm194HeJerSANofIGTdrvTjY7cbLswasMGfYXCGjzAXbPT8IMZ_ghGVvle-6ixzYLbDCSiek-mffMnLwSXKBHrNCTMYrocEFxeOJTnRtz1JyenZRcv6IDh7TCtQc6BBmr3KPP=w273-h320",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjpTXzPvpA_T9JKuWxU8NTOnozt0FtunVwQibxvAcoDQURAH9Q5AZK9jfLjn1IEjlnMDICtGzVb4PxaP7Gql7Ly02pM5uUw9-pE4c-9jIGyMzYZrNW3nzviiEX2TUtWSvOgfmbtfTIann-QyTbeFn1yOC86_8zBIoYDP-_83IkESdhwv0qAsYcd3Jcf=w400-h400",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhBBrkxdzzMTXqNTllsx1PtmW7fjOsTmnSbyGLeKHtKWgWOBOZLVUB5cUYVIRniNVWLLj6as99lJs80H7DSrlOzmbNUrscSV1LsI9CjJ4k2VJONsZWyraUpzuR_O87os_x4stKgzensiUyBVEm_snoUX_yfVCTl86x5yPjL_Nl1BC7YzAXQDkA4lT7G=w400-h400"
+       },
+       "MIN":{  
+          "TeamName":"CD Antofagasta",
+          "TeamShortName":"CDA",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhLgt7wixANPfPCyiiLPWSksSGw7WrlWx_O7CEiX2ucbArszf2VoKirPq07T_elgyva0eEzjssZbZ_hG1YyTAkoUoxsPYu5dpzuvPb0aY1Tjv5WMymousvK14sLLhKNA0ZddErQ8TpSY2rTEZVVxzous-WekW0TCfdxF3xJdu7dZyNk7wI6OJPGv0ta",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "CDO":{  
+          "TeamName":"Universidad de Concepción",
+          "TeamShortName":"UDC",
+          "TeamLogoURL":"http://url_to_my_team_logo.png",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "WAS":{  
+          "TeamName":"CD Temuco",
+          "TeamShortName":"TEM",
+          "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjUvz7BUS5Ig5vcXb4kaQd6bdFqd0FYdFnf92DOabbLMomGn_M2_gRWgTWGE_ru3aNNZ9MbTsUM9TALIv7nx39KkpLoTZPLMHf-8ndOyRqXEhfBA6w4yCWd7tYBuOkdnSEM2wBar96eyiuzqN6fyvJbcqhxKQULEHKRQ0D86o9IFG6unxxllR_QWZ1k",
+          "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhh3UKIuCgeO6ErBCdqjL9BJM5qB3-F2UxyyD6vNhwe8_S_hadUQP7KU6gMd8ybGw9x-K0pS3CoCDumTEoraHxEIaP8WpHLec38VsL3NKWpN3jvtBYCfm5ts-kdNJJIJ-d1MMQKiL_VFPovEY2YlwhYSxk79ypQJXaiPO2mKYn6FesbyQkB-FMNdY95",
+          "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEj8RdXesZOlc3MoJeSlh-YTXecafCxvhMlGjrlbmYlGmj_Ah3Hq-XstEG7GI_dRPzLE-hsNrXu_BiAhG_sBHq_itmdd0gGORFmDUW0ra-XuHkLhCCWpx7vmrsbCVKH2UPlOu_3kwvaPyUM8SrC21BNWSx7htTKjdZAMJfmJy8CoxgZKakbq2-rp1SWm=w273-h320"
+       },
+       "LAN":{  
+          "TeamName":"Santiago Morning",
+          "TeamShortName":"SM",
+          "TeamLogoURL":"http://url_to_my_team_logo.png",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       },
+       "LAC":{  
+          "TeamName":"Rangers de Talca",
+          "TeamShortName":"RAN",
+          "TeamLogoURL":"http://url_to_my_team_logo.png",
+          "TeamHomeKitURL":"http://url_to_my_home_kit.png",
+          "TeamAwayKitURL":"http://url_to_my_away_kit.png"
+       }
+    }
+ }
