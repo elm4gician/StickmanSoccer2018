@@ -25,14 +25,14 @@
           "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhJhxIDJpfbcW_6pYPMq-9mmUhS64IjEk9hWVWKa-Ut46jyica2Hyj9feUJ6FI8YhjcXt6OJ5GxL8E7edCU-84HFLDRcOjYb7l8jq4XcnCgVMKNZvp7842MMqPn6VOB8v9IBIMXr7mGIAAz_8OscSFyBpWkjRMuNCRQ0d7btxjPzzz0JHGddtZ36EIz=w400-h400"
        },
        "CCO":{  
-          "TeamName":"Universidad Católica",
+          "TeamName":"Universidad Catolica",
           "TeamShortName":"UC",
           "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhSJZ7JuRwiJMPK05S7M7119LchXxJUrX2dhh-VPEeTEtok34-RokZwuoi3d2YESfr7jy-xWOFj4Wc5Xegz-O-qFsKhTrovGOZT3LlkLkkvlzvqm782rX61N4wAasJTc7D-CGMplA08P8AuNIncr9qlckTPpK-7qbWRMdKxlskEqZQJ8YY5nkMu7OUU=w274-h320",
           "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEhALbgmWQs21wMDUPQisl0Thu9NDSgGNBhwh9cpNvK_Z7Pr3_26FSrqTrB4CshJbRJT_rlq2Sn0Uj88SROD2M38P-fsjlJmgVQRgp4lwF7EhUtx2lAYnqfF249LHuTjqpqxP1Zo5wN4vpCuZuv-uCjs6tqTVhqhHkLLQAYVENk3ZXySKE22RSvwEAky=w400-h400",
           "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEiPuf9moLJXKTjxQ24ODYyqDN7nHJ-T0opa_P0_mNn1sAmExLbHSIjTC0oI410f9gUW97cIByF3C7b3U-OTpZT5rukkVR9iAlEEvTf0vLwT-YqAH7CcGbM1zrOwNnbYcI5Wm2oaMJAiiaEauKAjqc8hS5BnZEQVC2KQ028u6pu6GAaKDMBj3fKuGYtP"
        },
        "CLM":{  
-          "TeamName":"Union Española",
+          "TeamName":"Union Espanola",
           "TeamShortName":"UE",
           "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgH7NUXZjksldgNsKXfvkhYWzoNLPlqD50LKeAB6AiPDxhJ11rxfUdKaQxzCH8ewhtTjO3-BMLQhRdhZ588uv9TRUHEqCSwqbox_Q7ft8rCsPMiDqAFo9ZQsSyIVr0X3QcOh6trM-awAuoAo_Fj0n3U1tnEKUBcH_u_1BPLoGz2IfaXoix5KOvRAYNS",
           "TeamHomeKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEgLFLboyQgAu1F050FFI_UCSZkTOJGnbiPjA82-6NPMvht8a__sZHnyHxw50MqwTt8FHLLy3Bncd7Rx_-UdI9GtCxHTqJCvav6-nUcA5s2kbvDmhg6VzMRPdha86sEOxSVNn3en8ryT7dGfB0YwG1klsLVZPa2nCDaV6pfY0YgE-NxJkRPa7p4c_k6K",
@@ -46,7 +46,7 @@
           "TeamAwayKitURL":"http://url_to_my_away_kit.png"
        },
        "SEA":{  
-          "TeamName":"Everton de Viña del Mar",
+          "TeamName":"Everton de Vina del Mar",
           "TeamShortName":"EVE",
           "TeamLogoURL":"https://blogger.googleusercontent.com/img/a/AVvXsEjFjuJYJnObrgmT5Ska8JgfzIhWtjh9HfFLWiwuyA92YbODuMRmteuXp89ssUWJFvGMVu4S4v98IwK49_ePNu68EXmIoEtqA32EBg5LoNwWbOIU6u9qkTOPYrGoFGL_wNEVVTeQ9fpFztUVbDDx5fmHcWZuf_GqhubsM8tfCRSMSyOiV-q_hw7H_6kC=w273-h320",
           "TeamHomeKitURL":"http://url_to_my_home_kit.png",
@@ -67,7 +67,7 @@
           "TeamAwayKitURL":"https://blogger.googleusercontent.com/img/a/AVvXsEghA8p23THq0NOOxdwd-VLbwxbb-ylw7kVeqRR1Vl9REq_nUZVKT_1hJlzyzft0bXTk2I94_fjSv_Q6jCMOiWeN6vHAeVzf7-Aoc5grA2N2E5do7cyf_mRxMZ0dtxqIuxZ-C5zAB_ufcw40vPkUSPLEe0fEn_UY2KLWN5o4SdY64Zl_KL62cXHr3P0_=w400-h400"
        },
        "NYB":{  
-          "TeamName":"O'Higgins de Rancagua",
+          "TeamName":"OHiggins de Rancagua",
           "TeamShortName":"OHI",
           "TeamLogoURL":"http://url_to_my_team_logo.png",
           "TeamHomeKitURL":"http://url_to_my_home_kit.png",
@@ -137,7 +137,7 @@
           "TeamAwayKitURL":"http://url_to_my_away_kit.png"
        },
        "CDO":{  
-          "TeamName":"Universidad de Concepción",
+          "TeamName":"Universidad de Concepcion",
           "TeamShortName":"UDC",
           "TeamLogoURL":"http://url_to_my_team_logo.png",
           "TeamHomeKitURL":"http://url_to_my_home_kit.png",
